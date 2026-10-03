@@ -5,6 +5,6 @@
   "description": "Declares the wp-env that reusable-phpunit.yml starts for this fixture, the way a real consumer does.",
   "license": "MIT",
   "devDependencies": {
-    "@wordpress/env": "^11.13.0"
+    "@wordpress/env": "^11.16.0"
   }
 }
