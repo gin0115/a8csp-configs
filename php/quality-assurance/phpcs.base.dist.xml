@@ -25,7 +25,7 @@
 
 	<!-- Run against the PHPCompatibilityWP ruleset and check for cross-version PHP support. -->
 	<rule ref="PHPCompatibilityWP"/>
-	<config name="testVersion" value="8.5-"/>
+	<config name="testVersion" value="8.4-"/>
 
 	<!-- Run against the WordPress-Extra ruleset and check for the minimum supported WP version. -->
 	<rule ref="WordPress-Extra">

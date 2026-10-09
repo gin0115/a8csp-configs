@@ -103,7 +103,7 @@ jobs:
 
 ## Supported floors
 
-- PHP 8.5 or later
+- PHP 8.4 or later
 - WordPress 7.1 or later
 
 ## Versioning
